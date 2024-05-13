@@ -1,0 +1,5 @@
+[user]
+	name = Alex L Kamara
+	email = ak@felexuss.com
+[core]
+	editor = notepad++.exe -multiInst -noseesion
